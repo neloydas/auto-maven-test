@@ -1,0 +1,4 @@
+{
+  "author": "Neloy Das <niloy.sunny@gmail.com>",
+  "plugins": ["git-tag", "maven", "released"]
+}
